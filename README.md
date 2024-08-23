@@ -1,6 +1,6 @@
 # Calculator
 A simple web-based calculator built using HTML, CSS, and JavaScript. This calculator performs basic arithmetic operations and features a clean and user-friendly interface.
-<!--
+
 ## Table of Contents
 
 - [Screenshots](#screenshots)
@@ -11,7 +11,7 @@ A simple web-based calculator built using HTML, CSS, and JavaScript. This calcul
 - [Contributing](#contributing)
 - [Credits](#credits)
 - [License](#license)
-
+<!--
 ## Screenshots
 
 ![CalculatorUI](calculatorUI.png)
