@@ -11,11 +11,11 @@ A simple web-based calculator built using HTML, CSS, and JavaScript. This calcul
 - [Contributing](#contributing)
 - [Credits](#credits)
 - [License](#license)
-<!--
+
 ## Screenshots
 
 ![CalculatorUI](calculatorUI.png)
-
+<!--
 ## Installation
 
 To run this Basic Calculator locally, follow these steps:
