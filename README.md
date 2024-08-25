@@ -15,7 +15,7 @@ A simple web-based calculator built using HTML, CSS, and JavaScript. This calcul
 ## Screenshots
 
 ![CalculatorUI](calculatorUI.png)
-<!--
+
 ## Installation
 
 To run this Basic Calculator locally, follow these steps:
@@ -29,7 +29,7 @@ git clone https://github.com/anandyelloju/calculator.git
 cd calculator
 ```
 3. Open the '**index.html**' file in your web browser to start using the calculator.
-
+<!--
 ## Usage
 
 - Enter numbers and use the operators (+, -, *, /) to perform calculations.
