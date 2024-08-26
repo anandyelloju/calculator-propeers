@@ -29,13 +29,13 @@ git clone https://github.com/anandyelloju/calculator.git
 cd calculator
 ```
 3. Open the '**index.html**' file in your web browser to start using the calculator.
-<!--
+
 ## Usage
 
 - Enter numbers and use the operators (+, -, *, /) to perform calculations.
 - Use the 'C' button to clear the display.
 - The calculator handles basic arithmetic operations like addition, subtraction, multiplication, and division.
-
+<!--
 ## Features
 
 - Basic arithmetic operations: addition, subtraction, multiplication, and division.
