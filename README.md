@@ -35,14 +35,14 @@ cd calculator
 - Enter numbers and use the operators (+, -, *, /) to perform calculations.
 - Use the 'C' button to clear the display.
 - The calculator handles basic arithmetic operations like addition, subtraction, multiplication, and division.
-<!--
+
 ## Features
 
 - Basic arithmetic operations: addition, subtraction, multiplication, and division.
 - Clear display button.
 - Simple and intuitive user interface.
 - Responsive design for various screen sizes.
-
+<!--
 ## Technologies Used
 
 - **HTML:** Markup language for creating the structure of the calculator.
