@@ -42,15 +42,15 @@ cd calculator
 - Clear display button.
 - Simple and intuitive user interface.
 - Responsive design for various screen sizes.
-<!--
+
 ## Technologies Used
 
 - **HTML:** Markup language for creating the structure of the calculator.
 - **CSS:** Stylesheet language for designing the user interface.
 - **JavaScript:** Scripting language for handling the calculator's logic.
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,vscode,github)](https://skillicons.dev)
-
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,,vscode,github)](https://skillicons.dev)
+<!--
 ## Contributing
 
 Contributions are welcome! If you have any suggestions or improvements.
