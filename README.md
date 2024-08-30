@@ -50,11 +50,11 @@ cd calculator
 - **JavaScript:** Scripting language for handling the calculator's logic.
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,,vscode,github)](https://skillicons.dev)
-<!--
+
 ## Contributing
 
 Contributions are welcome! If you have any suggestions or improvements.
-
+<!--
 ## Credits
 
 - Inspired by traditional handheld calculators.
