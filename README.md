@@ -1,5 +1,5 @@
 # Calculator
-A simple web-based calculator built using HTML, CSS, and JavaScript. This calculator performs basic arithmetic operations and features a clean and user-friendly interface.
+A simple web-based calculator built using HTML, CSS, and JavaScript as part of a JS Developer roadmap on the ProPeers. This calculator performs basic arithmetic operations and features a clean and user-friendly interface.
 
 ## Table of Contents
 
@@ -58,7 +58,7 @@ Contributions are welcome! If you have any suggestions or improvements.
 ## Credits
 
 - Inspired by traditional handheld calculators.
-- Developed by [Anand Yelloju](https://github.com/anandyelloju).
+- Developed by [Anand Yelloju](https://github.com/anandyelloju) as part of a ProPeers course.
 
 ## License
 
