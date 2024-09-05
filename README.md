@@ -59,7 +59,7 @@ Contributions are welcome! If you have any suggestions or improvements.
 
 - Inspired by traditional handheld calculators.
 - Developed by [Anand Yelloju](https://github.com/anandyelloju).
-<!--
+
 ## License
 
 This project is licensed under the [MIT License](https://choosealicense.com/licenses/mit/) - see the [LICENSE](https://github.com/anandyelloju/basic-calculator/blob/main/LICENSE) file for details.
